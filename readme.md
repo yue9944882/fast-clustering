@@ -1,7 +1,7 @@
 
 #Fast-Clustering#
 
-========================================
+=========================================
 #### An Implementation of 
 ####Clustering by fast search and find of density peaks####
 
