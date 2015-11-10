@@ -6,7 +6,6 @@
 ####Clustering by fast search and find of density peaks####
 
 ![](http://files.cnblogs.com/files/guguli/fast_clustering_1.gif)
-=========================================
 
 
 
